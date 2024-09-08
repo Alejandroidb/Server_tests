@@ -1,0 +1,17 @@
+node_modules/
+
+package-lock.json
+
+
+# Entorno (variables)
+.env
+
+coverage/
+
+
+.DS_Store
+Thumbs.db
+
+
+
+.vscode/
